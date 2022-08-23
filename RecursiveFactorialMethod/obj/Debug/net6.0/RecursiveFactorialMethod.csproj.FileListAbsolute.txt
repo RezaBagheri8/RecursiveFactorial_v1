@@ -1,0 +1,15 @@
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursiveFactorialMethod\bin\Debug\net6.0\RecursiveFactorialMethod.exe
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursiveFactorialMethod\bin\Debug\net6.0\RecursiveFactorialMethod.deps.json
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursiveFactorialMethod\bin\Debug\net6.0\RecursiveFactorialMethod.runtimeconfig.json
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursiveFactorialMethod\bin\Debug\net6.0\RecursiveFactorialMethod.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursiveFactorialMethod\bin\Debug\net6.0\RecursiveFactorialMethod.pdb
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursiveFactorialMethod\obj\Debug\net6.0\RecursiveFactorialMethod.csproj.AssemblyReference.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursiveFactorialMethod\obj\Debug\net6.0\RecursiveFactorialMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursiveFactorialMethod\obj\Debug\net6.0\RecursiveFactorialMethod.AssemblyInfoInputs.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursiveFactorialMethod\obj\Debug\net6.0\RecursiveFactorialMethod.AssemblyInfo.cs
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursiveFactorialMethod\obj\Debug\net6.0\RecursiveFactorialMethod.csproj.CoreCompileInputs.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursiveFactorialMethod\obj\Debug\net6.0\RecursiveFactorialMethod.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursiveFactorialMethod\obj\Debug\net6.0\refint\RecursiveFactorialMethod.dll
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursiveFactorialMethod\obj\Debug\net6.0\RecursiveFactorialMethod.pdb
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursiveFactorialMethod\obj\Debug\net6.0\RecursiveFactorialMethod.genruntimeconfig.cache
+C:\Users\Mostafa Abbasi\source\RezaBagheri\RecursiveFactorialMethod\obj\Debug\net6.0\ref\RecursiveFactorialMethod.dll
